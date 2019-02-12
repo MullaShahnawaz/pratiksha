@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9585" started-at="2019-02-12T07:34:20Z" finished-at="2019-02-12T07:34:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9585" started-at="2019-02-12T07:34:20Z" finished-at="2019-02-12T07:34:30Z">
+      <class name="SeleniumWebDriver.DevOpsDemo.Herokudemo">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumWebDriver.DevOpsDemo.Herokudemo@6aaa5eb0]" name="beforeTest" is-config="true" duration-ms="8418" started-at="2019-02-12T13:04:20Z" finished-at="2019-02-12T13:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="herokuapp()[pri:0, instance:SeleniumWebDriver.DevOpsDemo.Herokudemo@6aaa5eb0]" name="herokuapp" duration-ms="1000" started-at="2019-02-12T13:04:29Z" finished-at="2019-02-12T13:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- herokuapp -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumWebDriver.DevOpsDemo.Herokudemo@6aaa5eb0]" name="afterTest" is-config="true" duration-ms="140" started-at="2019-02-12T13:04:30Z" finished-at="2019-02-12T13:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- SeleniumWebDriver.DevOpsDemo.Herokudemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
